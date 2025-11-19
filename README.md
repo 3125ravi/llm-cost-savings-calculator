@@ -54,7 +54,7 @@ This tool helps developers and AI practitioners analyze token usage and cost imp
    ```
 3. Start the server:
    ```bash
-   http-server
+   npx http-server
    ```
 4. Open the local URL provided by the server (e.g., `http://localhost:8080`) in your browser.
 
