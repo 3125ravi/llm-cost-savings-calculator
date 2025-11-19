@@ -61,7 +61,7 @@ This tool helps developers and AI practitioners analyze token usage and cost imp
 ---
 
 ## 🖼 Demo Screenshot
-*(Insert the screenshot)*
+<img src="./screenshot.gif" alt="Demo GIF" width="500"/>
 
 ---
 
