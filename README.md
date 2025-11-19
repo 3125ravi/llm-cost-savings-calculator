@@ -35,7 +35,7 @@ This tool helps developers and AI practitioners analyze token usage and cost imp
 2. Navigate to the project folder and open the HTML file:
    ```bash
    cd llm-cost-savings-calculator
-   open azure_openai_cost_calculator.html
+   open index.html
    ```
    *(On Windows, double-click the file. On macOS/Linux, use your default browser.)*
 3. Configure your LLM provider and test prompt.
