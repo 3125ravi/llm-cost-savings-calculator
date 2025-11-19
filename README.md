@@ -4,6 +4,11 @@ Compare token costs across **JSON**, **TOO**, and **VSC** formats for any LLM pr
 
 ---
 
+## 🖼 Demo Screenshot
+<img src="./screenshot.gif" alt="Demo GIF" width="500"/>
+
+---
+
 ## 🚀 Overview
 This tool helps developers and AI practitioners analyze token usage and cost implications of different output formats when interacting with Large Language Models (LLMs). It supports providers like:
 - Azure OpenAI
@@ -60,10 +65,6 @@ This tool helps developers and AI practitioners analyze token usage and cost imp
 
 ---
 
-## 🖼 Demo Screenshot
-<img src="./screenshot.gif" alt="Demo GIF" width="500"/>
-
----
 
 ## ⚠️ Notes
 - Cost calculations are estimates based on standard pricing models.
